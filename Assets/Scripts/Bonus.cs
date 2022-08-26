@@ -3,7 +3,7 @@ using TMPro;
 
 public class Bonus : MonoBehaviour
 {
-    public int bonusCount;
+    public int bonusCount; //какой-то коммент
     private TextMeshProUGUI bonusText;
 
     void Start()
